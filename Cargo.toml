@@ -1,0 +1,7 @@
+[package]
+name = "bf"
+description = "Brainfuck Compiler"
+version = "0.1.0"
+authors = ["Alexander", "MightyChubz"]
+
+[dependencies]
